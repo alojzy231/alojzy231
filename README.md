@@ -3,7 +3,7 @@ I'm a student really passionated about what I do. If you want to know what I do 
 ---
 📈 My stats:
 
-<img height="360em" src="https://github-readme-stats.vercel.app/api?username=alojzy231&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alojzy231" />
+<img height="300em" src="https://github-readme-stats.vercel.app/api?username=alojzy231&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alojzy231" />
 
 
 
