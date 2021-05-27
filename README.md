@@ -6,8 +6,10 @@ I'm a student really passionated about what I do. If you want to know what I do 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alojzy231&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 ---
 <a href="https://damian-klos-resume.herokuapp.com/">Also check my website<a/>
+
 If you'd like to share with me something just write to me!
-  <a href="mailto:damian.alojzy.klos@gmail.com">damian.alojzy.klos@gmail.com</a>
+  
+<a href="mailto:damian.alojzy.klos@gmail.com">damian.alojzy.klos@gmail.com</a>
 
 <!--
 **alojzy231/alojzy231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
