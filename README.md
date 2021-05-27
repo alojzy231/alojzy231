@@ -4,6 +4,8 @@ I'm a student really passionated about what I do. If you want to know what I do 
 📈 My stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alojzy231&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://damian-klos-resume.herokuapp.com/">Also check my website<a/>
 
