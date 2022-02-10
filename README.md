@@ -7,7 +7,7 @@ I'm a student really passionated about what I do. If you want to know what I do 
 
 
 
-<a href="https://damian-klos-resume.herokuapp.com/">Also check my website<a/>
+<a href="https://damian-klos-resume.vercel.app/">Also check my website<a/>
 
 If you'd like to share with me something just write to me!
   
