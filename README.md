@@ -1,5 +1,5 @@
 # Hello World!
-I'm a student really passionated about what I do. If you want to know what I do just check out my repos :) 
+I'm a front-end developer, really passionated about what I do. If you want to know what I exactly do just check out my repos :) 
 ---
 📈 My stats:
 
